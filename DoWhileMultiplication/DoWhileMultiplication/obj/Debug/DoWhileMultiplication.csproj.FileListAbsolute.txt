@@ -1,0 +1,5 @@
+c:\users\kelvin\documents\visual studio 2015\Projects\DoWhileMultiplication\DoWhileMultiplication\bin\Debug\DoWhileMultiplication.exe.config
+c:\users\kelvin\documents\visual studio 2015\Projects\DoWhileMultiplication\DoWhileMultiplication\bin\Debug\DoWhileMultiplication.exe
+c:\users\kelvin\documents\visual studio 2015\Projects\DoWhileMultiplication\DoWhileMultiplication\bin\Debug\DoWhileMultiplication.pdb
+c:\users\kelvin\documents\visual studio 2015\Projects\DoWhileMultiplication\DoWhileMultiplication\obj\Debug\DoWhileMultiplication.exe
+c:\users\kelvin\documents\visual studio 2015\Projects\DoWhileMultiplication\DoWhileMultiplication\obj\Debug\DoWhileMultiplication.pdb

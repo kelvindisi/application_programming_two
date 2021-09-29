@@ -1,0 +1,6 @@
+c:\users\kelvin\documents\visual studio 2015\Projects\LotteryGame\LotteryGame\bin\Debug\LotteryGame.exe.config
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\LotteryGame\LotteryGame\bin\Debug\LotteryGame.exe
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\LotteryGame\LotteryGame\bin\Debug\LotteryGame.pdb
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\LotteryGame\LotteryGame\obj\Debug\LotteryGame.csprojResolveAssemblyReference.cache
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\LotteryGame\LotteryGame\obj\Debug\LotteryGame.exe
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\LotteryGame\LotteryGame\obj\Debug\LotteryGame.pdb
