@@ -13,18 +13,17 @@ namespace ListExample
             arr.Add(54);
             arr.AddRange(new int[] { 56, 55, 57 });
             arr.Add("Seth");
-            arr.Add("Francis");
+            arr.Add("Mwakideu");
             arr.AddRange(new double[] { 32.64, 38.98, 49.66 });
 
             ArrayList doubleType = new ArrayList();
             ArrayList stringType = new ArrayList();
             ArrayList intType = new ArrayList();
 
-            arr[arr.IndexOf("Francis")] = "Franco";
 
-            //arr.RemoveAt(5);
-            //arr.Insert(5, "Franco");
-            foreach(var val in arr)
+            arr.RemoveAt(5);
+            arr.Insert(5, "Franco");
+            foreach (var val in arr)
             {
                 Type t = val.GetType();
 
@@ -37,15 +36,24 @@ namespace ListExample
             }
             Console.WriteLine("Double Elements:");
 
-            doubleType.Cast<double>().ToList().ForEach(d => Console.Write(d + "\t"));
+            foreach(double d in doubleType)
+            {
+                Console.Write(d + "\t");
+            }
             
             Console.WriteLine();
             Console.WriteLine("String Elements");
-            stringType.Cast<string>().ToList().ForEach(s => Console.Write(s + "\t"));
+            foreach(string s in stringType)
+            {
+                Console.Write(s + "\t");
+            }
 
             Console.WriteLine();
             Console.WriteLine("Integer Elements");
-            intType.Cast<int>().ToList().ForEach(i => Console.Write(i + "\t"));
+            foreach(int i in intType)
+            {
+                Console.Write(i + "\t");
+            }
 
 
             Console.ReadKey();
